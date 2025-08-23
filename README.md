@@ -56,39 +56,41 @@ To get a local copy up and running, follow these simple steps.
 Prerequisites
 Make sure you have Node.js and npm installed on your system.
 => npm
-
+<br>
 Bash
 npm install npm@latest -g
 Installation
 Clone the repository
-
+<br>
 Bash
 git clone https://github.com/AshutoshSharma312/Currency-Converter-using-REACT-AND-TAILWIND.git
 Navigate to the project directory
-
+<br>
 Bash
 cd Currency-Converter-using-REACT-AND-TAILWIND
 Install dependencies
-
+<br>
 Bash
 npm install
 Run the app
-
+<br>
 Bash
 npm run dev
-or
+<br> 
 
-Bash
-npm start
 Your application should now be running on http://localhost:5173 (or another port).
-
+<br>
 Usage
-Using the converter is straightforward:
-Enter the amount you want to convert in the top input field.
-Select the currency you are converting from.
-Select the currency you are converting to.
-The converted amount will instantly appear in the bottom field!
+Using the converter is straightforward.
 
+Enter the amount you want to convert in the top input field.
+
+Select the currency you are converting from.
+
+Select the currency you are converting to.
+
+The converted amount will instantly appear in the bottom field!
+<br>
 Contact
 Ashutosh Sharma 
 Project Link: https://github.com/AshutoshSharma312/Currency-Converter-using-REACT-AND-TAILWIND
