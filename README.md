@@ -48,9 +48,9 @@ This project is a functional currency converter that fetches live exchange rates
 🚀 Built With
 This project was brought to life using these modern technologies:
 
-[][React-url]
+[][[React-url](https://www.google.com/search?q=%5Bhttps://reactjs.org/%5Dhttps://reactjs.org/)]
 
-[][Tailwind-url]
+[][[Tailwind-url](https://www.google.com/search?q=%5Bhttps://tailwindcss.com/%5Dhttps://tailwindcss.com/)]
 
 🛠️ Getting Started
 To get a local copy up and running, follow these simple steps.
@@ -102,7 +102,3 @@ The converted amount will instantly appear in the bottom field!
 Contact
 Ashutosh Sharma 
 Project Link: https://github.com/AshutoshSharma312/Currency-Converter-using-REACT-AND-TAILWIND
-[]: #
-[react-url]: https://www.google.com/search?q=%5Bhttps://reactjs.org/%5Dhttps://reactjs.org/
-[]: #
-[tailwind-url]: https://www.google.com/search?q=%5Bhttps://tailwindcss.com/%5Dhttps://tailwindcss.com/
