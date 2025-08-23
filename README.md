@@ -1,4 +1,3 @@
-# Currency Converter using REACT AND TAILWIND
 <div align="center">
 
 <h1 align="center">Currency Converter 💸</h1>
@@ -47,10 +46,13 @@ This project is a functional currency converter that fetches live exchange rates
 
 🚀 Built With
 This project was brought to life using these modern technologies:
+<a href="https://react.dev" target="_blank">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+</a>
+<a href="https://tailwindcss.com" target="_blank">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
+</a>
 
-[][[React-url](https://www.google.com/search?q=%5Bhttps://reactjs.org/%5Dhttps://reactjs.org/)]
-
-[][[Tailwind-url](https://www.google.com/search?q=%5Bhttps://tailwindcss.com/%5Dhttps://tailwindcss.com/)]
 
 🛠️ Getting Started
 To get a local copy up and running, follow these simple steps.
