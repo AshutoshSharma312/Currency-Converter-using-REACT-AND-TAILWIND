@@ -1,7 +1,5 @@
 <div align="center">
-
 <h1 align="center">Currency Converter 💸</h1>
-
 <p align="center">
 A sleek, modern, and real-time currency converter built with the power of React and the beauty of Tailwind CSS.
 <br />
@@ -11,9 +9,7 @@ A sleek, modern, and real-time currency converter built with the power of React 
 <a href="https://github.com/AshutoshSharma312/Currency-Converter-using-REACT-AND-TAILWIND/issues">Request Feature</a>
 </p>
 </div>
-
 <div align="center">
-
 </div>
 
 <br/>
@@ -42,7 +38,7 @@ This project is a functional currency converter that fetches live exchange rates
 
 📱 Responsive Design: Flawless performance on desktops, tablets, and mobile devices.
 
-🎨 Modern UI: A beautiful and simple user interface built with Tailwind CSS.
+🎨 Modern UI: A beautiful and simple user interface built with Tailwind CSS.<br/>
 
 🚀 Built With
 This project was brought to life using these modern technologies:
@@ -59,22 +55,18 @@ To get a local copy up and running, follow these simple steps.
 
 Prerequisites
 Make sure you have Node.js and npm installed on your system.
-
-npm
+=> npm
 
 Bash
-
 npm install npm@latest -g
 Installation
 Clone the repository
 
 Bash
-
 git clone https://github.com/AshutoshSharma312/Currency-Converter-using-REACT-AND-TAILWIND.git
 Navigate to the project directory
 
 Bash
-
 cd Currency-Converter-using-REACT-AND-TAILWIND
 Install dependencies
 
@@ -92,13 +84,9 @@ Your application should now be running on http://localhost:5173 (or another port
 
 Usage
 Using the converter is straightforward:
-
 Enter the amount you want to convert in the top input field.
-
 Select the currency you are converting from.
-
 Select the currency you are converting to.
-
 The converted amount will instantly appear in the bottom field!
 
 Contact
