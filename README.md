@@ -1,5 +1,8 @@
 Currency Converter with React and Tailwind CSS
+
+
 This is a simple web application for converting between different currencies, built using React for the user interface and Tailwind CSS for styling.
+
 
 Technologies Used
 @ React
@@ -7,6 +10,7 @@ Technologies Used
 
 Getting Started
 To get a copy of this project running on your local machine, follow these steps.
+
 
 1. Clone the repository
 > git clone https://github.com/AshutoshSharma312/Currency-Converter-using-REACT-AND-TAILWIND.git
@@ -16,4 +20,6 @@ To get a copy of this project running on your local machine, follow these steps.
 > npm install
 4. Start the development server
 > npm run dev
+>
+
 Now, open your browser and go to http://localhost:5173 (or the address shown in your terminal) to see the application.
