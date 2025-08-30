@@ -23,3 +23,8 @@ To get a copy of this project running on your local machine, follow these steps.
 >
 
 Now, open your browser and go to http://localhost:5173 (or the address shown in your terminal) to see the application.
+
+
+<img width="1148" height="828" alt="Screenshot 2025-08-30 164109" src="https://github.com/user-attachments/assets/1d0a654e-a559-4c6a-9e15-464324bcd5a2" />
+
+
